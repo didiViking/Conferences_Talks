@@ -9,3 +9,5 @@ For audio, please visit: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 4. My blog post on SRE: https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
 
+5. O'Reilly book review on Observability: 
+https://www.linkedin.com/pulse/book-review-fundamentals-data-observability-andy-petrella-diana-todea
