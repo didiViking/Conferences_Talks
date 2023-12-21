@@ -15,5 +15,7 @@ https://www.linkedin.com/pulse/book-review-fundamentals-data-observability-andy-
 6. O'Reilly book review on ChatGPT:
 https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-todea-ns45f%3FtrackingId=vfdCfM3ZS4%252B2Bs%252FM7x5vYQ%253D%253D/?trackingId=vfdCfM3ZS4%2B2Bs%2FM7x5vYQ%3D%3D
 
-7. Elastic Advent Calendar blog article in English, Spanish and Romanian:
+7. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
 https://discuss.elastic.co/t/dec-3rd-2023-en-serverless-observability-how-beats-alerts-help-you-save-christmas/347284
+
+8. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
