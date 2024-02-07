@@ -1,6 +1,6 @@
 # Conferences & Talks
 
-1. WeAreDevelopersLive DevOps Day February 2024:
+1. WeAreDevelopersLive DevOps Day February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
 2. Slides for the SREday September 2023 presentation, London, UK
