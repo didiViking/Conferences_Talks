@@ -1,6 +1,6 @@
 # Conferences & Talks
 
-1. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms
+1. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
 2. DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote
    
