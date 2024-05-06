@@ -4,7 +4,7 @@
 
 2. Speaker at Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-3. Keynote speakers at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote
+3. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote
    
 4. Speaker at Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
