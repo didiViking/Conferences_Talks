@@ -1,21 +1,20 @@
 # Conferences & Talks
 
-1. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668
+1. Speaker at WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668
 
-2. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
+2. Speaker at Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-3. DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote
+3. Keynote speakers at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote
    
-4. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
+4. Speaker at Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
-5. DevOpsJS Conference, February 2024: 
+5. Speaker at DevOpsJS Conference, February 2024: 
 https://portal.gitnation.org/contents/serverless-observability-where-slos-meet-transforms
 
-6. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
+6. Speaker at WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
-7. Slides for the SREday September 2023 presentation, London, UK
-For audio, please visit: https://www.youtube.com/watch?v=QnhlCuXl_3k
+7. Speaker at SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 8. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
 
