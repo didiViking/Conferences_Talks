@@ -2,7 +2,7 @@
 
 1. Speaker at DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
-2. Speaker at JOTB 2024 conference, Malaga, Spain, May 2024: https://jonthebeach.com/speakers/?speaker=Diana%20Todea
+2. Speaker at JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
 
 3. Speaker at WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668
 
