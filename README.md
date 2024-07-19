@@ -2,7 +2,7 @@
 
 1. Speaker at DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
-2. Speaker at Monitorama, Portland, US, June 2024: https://monitorama.com/2024/pdx.html#speakers
+2. Speaker at Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
 
 3. Speaker at DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
