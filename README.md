@@ -1,6 +1,6 @@
 # Conferences & Talks
 
-1. Speaker at Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world
+1. Speaker at Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
 2. Speaker at DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
