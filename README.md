@@ -35,17 +35,18 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 
 # Articles
 
-1. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-2. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
-3. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
-4. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
-5. O'Reilly book review on Observability: 
+1. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+2. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+3. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
+4. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
+5. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
+6. O'Reilly book review on Observability: 
 https://www.linkedin.com/pulse/book-review-fundamentals-data-observability-andy-petrella-diana-todea%3FtrackingId=Ka%252Fz%252Bsa3TMqe1IORKJxiIQ%253D%253D/?trackingId=Ka%2Fz%2Bsa3TMqe1IORKJxiIQ%3D%3D
-6. O'Reilly book review on ChatGPT:
+7. O'Reilly book review on ChatGPT:
 https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-todea-ns45f%3FtrackingId=vfdCfM3ZS4%252B2Bs%252FM7x5vYQ%253D%253D/?trackingId=vfdCfM3ZS4%2B2Bs%2FM7x5vYQ%3D%3D
-7. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
+8. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
 https://discuss.elastic.co/t/dec-3rd-2023-en-serverless-observability-how-beats-alerts-help-you-save-christmas/347284
-8. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
+9. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
 
 # AWS interview video and blog post
 
