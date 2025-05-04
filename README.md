@@ -1,5 +1,7 @@
 # Conferences & Talks
 
+1. Speaker at Cloud Native Days Romania, May 2025: https://cloudnativedays.ro/speakers/#speakers 
+
 1. Speaker at GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
 2. Speaker at KCD Accra, Ghana, virtual, December 2024: https://www.linkedin.com/in/diana-todea-b2a79968/, https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
