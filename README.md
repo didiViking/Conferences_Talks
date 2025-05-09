@@ -6,13 +6,13 @@
    
 2. Speaker at KCD Accra, Ghana, virtual, December 2024: https://www.linkedin.com/in/diana-todea-b2a79968/, https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
    
-3. Speaker at the Open Source Monitoring Conference in Nuremberg, Germany, 2024: https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/
+3. Speaker at the Open Source Monitoring Conference in Nuremberg, Germany, 2024: https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
 
 # DevOps and Platform Engineering events
 
 4. Speaker at GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
-5. Speaker at DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions
+5. Speaker at DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
 
 6. Speaker at Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
