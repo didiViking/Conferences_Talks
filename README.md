@@ -1,6 +1,6 @@
 # Conferences & Talks
 
-# Cloud Native and Open Source subjects
+# Cloud Native and Open Source events
 
 1. Speaker at Cloud Native Days Romania, May 2025: https://cloudnativedays.ro/speakers/#speakers 
    
