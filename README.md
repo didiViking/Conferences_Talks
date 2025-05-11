@@ -1,3 +1,5 @@
+[![DevStats Card](https://devstats.me/?username=didiViking)](https://github.com/tico88612/devstats-card
+
 # Conferences & Talks
 
 # Cloud Native and Open Source events
