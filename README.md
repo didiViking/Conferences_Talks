@@ -4,7 +4,7 @@
 
 # Cloud Native and Open Source events
 
-1. Speaker at Cloud Native Days Romania, May 2025: https://cloudnativedays.ro/speakers/#speakers 
+1. Speaker at Cloud Native Days Romania, May 2025: https://cloudnativedays.ro/speakers/#speakers, video of the talk: https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
    
 2. Speaker at KCD Accra, Ghana, virtual, December 2024: https://www.linkedin.com/in/diana-todea-b2a79968/, https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
    
