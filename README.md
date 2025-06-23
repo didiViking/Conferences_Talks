@@ -13,10 +13,10 @@
 4. Speaker at OTel Community Day 2025, Denver, US, June 2025: https://sched.co/223Ad, https://otelopenobservabilityna25.sched.com/event/9d60bc1ac8197d162c0f24e754e45cb2
 
 5. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
+  
+6. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
 
 # DevOps and Platform Engineering events
-
-6. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
 
 7. Speaker at DevBCN, Barcelona, Spain, June 2025: https://www.devbcn.com/talk/829657
 
