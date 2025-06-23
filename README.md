@@ -18,7 +18,7 @@
 
 # DevOps and Platform Engineering events
 
-7. Speaker at DevBCN, Barcelona, Spain, June 2025: https://www.devbcn.com/talk/829657
+7. Speaker at DevBCN, Barcelona, Spain, July 2025: https://www.devbcn.com/talk/829657
 
 8. Speaker at DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: https://talks.devopsdays.org/devopsdays-amsterdam-2025/talk/LHVHKT/
    
