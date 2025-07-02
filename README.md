@@ -8,9 +8,9 @@
 
 2. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
 
-3. Speaker at OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://sched.co/223Ad, https://otelopenobservabilityna25.sched.com/event/9d60bc1ac8197d162c0f24e754e45cb2
+3. Speaker at OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
 
-4. Speaker at Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://cloudnativedays.ro/speakers/#speakers, video of the talk: https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
+4. Speaker at Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
    
 5. Speaker at KCD Accra, Ghana, virtual, December 2024: " Open source observability for private clouds: mission impossible or not?", https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
    
