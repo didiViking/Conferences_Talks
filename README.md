@@ -18,7 +18,7 @@
 
 # DevOps and Platform Engineering events
 
-7. Speaker at DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657
+7. Speaker at DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
 8. Speaker at DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
    
