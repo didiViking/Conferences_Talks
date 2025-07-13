@@ -6,7 +6,7 @@
 
 1. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
 
-2. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
+2. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
 
 3. Speaker at OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
 
