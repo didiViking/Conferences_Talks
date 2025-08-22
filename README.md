@@ -67,29 +67,31 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 
 # Cloud native and Open Source articles
 
-1. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
-2. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-3. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
-4. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+1. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
+2. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
+3. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
+4. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+5. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
+6. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
 # SRE, GenerativeAI
 
-5. "Can you make your calls and SMS observable? An Aircall Elastic integration story", https://medium.com/@dianatodea/send-aircall-data-into-elastic-a-webhook-integration-story-3753501a9d29
-6. "GenerativeAI and Observability in the Serverless World", "Part 3: How Machine Learning and DevOps are Transforming IT Operations
+7. "Can you make your calls and SMS observable? An Aircall Elastic integration story", https://medium.com/@dianatodea/send-aircall-data-into-elastic-a-webhook-integration-story-3753501a9d29
+8. "GenerativeAI and Observability in the Serverless World", "Part 3: How Machine Learning and DevOps are Transforming IT Operations
 Going Beyond RAG and Fine-Tuning", https://devm.io/devops/beyond-rag-fine-tuning-machine-learning-devops
-7. "GenerativeAI and Observability in the Serverless World", "Part 2: Introduction to Generative AI and Transformer Architecture
+9. "GenerativeAI and Observability in the Serverless World", "Part 2: Introduction to Generative AI and Transformer Architecture
 Transformer and Generative AI Concepts", https://devm.io/machine-learning/generative-ai-transformer-architecture
-8. "GenerativeAI and Observability in the Serverless World", "Part 1: How Machine Learning and DevOps are Transforming IT Operations": https://devm.io/devops/generativeai-observability-serverless
-9. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
-10. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
+10. "GenerativeAI and Observability in the Serverless World", "Part 1: How Machine Learning and DevOps are Transforming IT Operations": https://devm.io/devops/generativeai-observability-serverless
+11. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
+12. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
 https://discuss.elastic.co/t/dec-3rd-2023-en-serverless-observability-how-beats-alerts-help-you-save-christmas/347284
-11. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
+13. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
 
 # Public speaking, DevRel, community articles
 
-12. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
-13. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
-14. "Breaking into public speaking: my honest opinions after a two-year journey": https://medium.com/@dianatodea/breaking-into-devrel-my-honest-opinions-after-a-2-years-journey-495a516c3ffe
+14. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
+15. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
+16. "Breaking into public speaking: my honest opinions after a two-year journey": https://medium.com/@dianatodea/breaking-into-devrel-my-honest-opinions-after-a-2-years-journey-495a516c3ffe
 
 # Books reviews
 
