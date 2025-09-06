@@ -106,4 +106,5 @@ https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-to
 
 2. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
 
-<script type="text/javascript" src="https://sessionize.com/api/speaker/events/pioz5vyb6a/1x1x3fb393x"></script>
+<div class="sessionize-wrapper" data-sessionize-load="https://sessionize.com/api/speaker/events/pioz5vyb6a/1x1x3fb393x"></div>
+<script type="text/javascript" src="https://sessionize.com/api/v2/widget.js"></script>
