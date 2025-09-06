@@ -105,3 +105,5 @@ https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-to
 1. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
 
 2. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
+
+<script type="text/javascript" src="https://sessionize.com/api/speaker/events/pioz5vyb6a/1x0x3fb393x"></script>
