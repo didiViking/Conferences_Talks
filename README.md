@@ -2,6 +2,8 @@
 
 # Conferences & Talks
 
+https://sessionize.com/diana-todea/
+
 # Cloud Native and Open Source events
 
 1. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
