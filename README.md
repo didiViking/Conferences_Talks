@@ -12,7 +12,7 @@ https://sessionize.com/diana-todea/
    
 3. Speaker at Cloud Native Days Austria, October 2025: https://cloudnativedays.at/
    
-4. Speaker at Cloud Native Kuala Lumpur, September 2025: https://community.cncf.io/events/details/cncf-cloud-native-kuala-lumpur-presents-online-women-in-cloud-era-cloud-native-kuala-lumpur-meetup-september-2025/
+4. Speaker at Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
 
 5. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
 
