@@ -69,12 +69,13 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 
 # Cloud native and Open Source articles
 
-1. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
-2. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
-3. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
-4. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-5. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
-6. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+1. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
+2. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
+3. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
+4. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
+5. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+6. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
+7. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
 # SRE, GenerativeAI
 
