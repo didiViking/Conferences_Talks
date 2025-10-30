@@ -30,9 +30,9 @@ https://sessionize.com/diana-todea/
 
 # DevOps and Platform Engineering events
 
-12. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+12. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
-13. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+13. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
 14. Speaker at DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
