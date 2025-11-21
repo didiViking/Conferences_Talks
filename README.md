@@ -6,69 +6,73 @@ https://sessionize.com/diana-todea/
 
 # Cloud Native and Open Source events
 
-1. Speaker at Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
+1. Speaker at Cloud Native Valencia, Valencia, November 2025: https://community.cncf.io/events/details/cncf-cloud-native-valencia-presents-cloud-native-valencia-3-year-end-lightning-talks-ctencf-party/
+   
+2. Speaker at Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922
 
-2. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
-   
-3. Speaker at Cloud Native Bergen, October 2025: https://2025.cloudnativebergen.dev/speaker/diana-todea
-   
-4. Speaker at PromCON EU, October 2025: https://www.youtube.com/live/SzSUa5y7Ji0?si=maeQvwqIqxNilch_
-   
-5. Speaker at Cloud Native Days Austria, October 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
-   
-6. Speaker at Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
+3. Speaker at Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
 
-7. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
-
-8. Speaker at OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
-
-9. Speaker at Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
+4. Speaker at OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
    
-10. Speaker at KCD Accra, Ghana, virtual, December 2024: " Open source observability for private clouds: mission impossible or not?", https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
+5. Speaker at Cloud Native Bergen, October 2025: https://2025.cloudnativebergen.dev/speaker/diana-todea, https://youtu.be/eVDBqKcDXpU
    
-11. Speaker at the Open Source Monitoring Conference in Nuremberg, Germany, 2024: "Open source observability for private clouds: mission impossible or not?", https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
+6. Speaker at PromCON EU, October 2025: https://www.youtube.com/live/SzSUa5y7Ji0?si=maeQvwqIqxNilch_
+   
+7. Speaker at Cloud Native Days Austria, October 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
+   
+8. Speaker at Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
+
+9. Speaker at Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
+
+10. Speaker at OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
+
+11. Speaker at Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
+   
+12. Speaker at KCD Accra, Ghana, virtual, December 2024: " Open source observability for private clouds: mission impossible or not?", https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
+   
+13. Speaker at the Open Source Monitoring Conference in Nuremberg, Germany, 2024: "Open source observability for private clouds: mission impossible or not?", https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
 
 # DevOps and Platform Engineering events
 
-12. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+14. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
-13. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+15. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
-14. Speaker at DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
+16. Speaker at DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
-15. Speaker at DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
+17. Speaker at DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
    
-16. Speaker at Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
+18. Speaker at Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
 
-17. Speaker at GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
+19. Speaker at GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
-18. Speaker at DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
+20. Speaker at DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
 
-19. Speaker at Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
+21. Speaker at Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
-20. Speaker at DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
+22. Speaker at DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
-21. Speaker at Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
+23. Speaker at Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
 
-22. Speaker at DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
+24. Speaker at DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
-23. Speaker at JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
+25. Speaker at JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
 
-24. Speaker at WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
+26. Speaker at WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
 
-25. Speaker at Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
+27. Speaker at Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-26. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
+28. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
    
-27. Speaker at Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
+29. Speaker at Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
-28. Speaker at DevOpsJS Conference, February 2024: 
+30. Speaker at DevOpsJS Conference, February 2024: 
 https://portal.gitnation.org/contents/serverless-observability-where-slos-meet-transforms
 
-29. Speaker at WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
+31. Speaker at WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
-30. Speaker at SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
+32. Speaker at SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 
 # Cloud native and Open Source articles
