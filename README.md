@@ -8,7 +8,7 @@ https://sessionize.com/diana-todea/
 
 1. Speaker at Cloud Native Valencia, Valencia, November 2025: https://community.cncf.io/events/details/cncf-cloud-native-valencia-presents-cloud-native-valencia-3-year-end-lightning-talks-ctencf-party/
    
-2. Speaker at Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922,https://www.youtube.com/watch?v=hoyGwC7i-SI
+2. Speaker at Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922, https://www.youtube.com/watch?v=hoyGwC7i-SI
 
 3. Speaker at Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
 
