@@ -77,32 +77,35 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 
 # Cloud native and Open Source articles
 
-1. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
-2. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
-3. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
-4. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
-5. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-6. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
-7. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+1. My first KubeCon + CloudNativeCon: A journey through community, inclusivity, and neurodiversity, "https://www.cncf.io/blog/2025/12/04/my-first-kubecon-cloudnativecon-a-journey-through-community-inclusivity-and-neurodiversity/
+2. "How I Made the Most of KubeCon + CloudNativeCon Atlanta 2025 and How You Can Maximize Your Network Too" https://medium.com/@dianatodea/how-i-made-the-most-of-kubecon-cloudnativecon-atlanta-2025-and-how-you-can- maximize-your-network-e9a79dd98169
+3. "Observability Is a Mesh, Not a Braid", https://medium.com/@dianatodea/observability-is-a-mesh-not-a-braid-c3ac3ca9a305
+4. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
+5. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
+6. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
+7. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
+8. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+9. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
+10. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
 # SRE, GenerativeAI
 
-7. "Can you make your calls and SMS observable? An Aircall Elastic integration story", https://medium.com/@dianatodea/send-aircall-data-into-elastic-a-webhook-integration-story-3753501a9d29
-8. "GenerativeAI and Observability in the Serverless World", "Part 3: How Machine Learning and DevOps are Transforming IT Operations
+11. "Can you make your calls and SMS observable? An Aircall Elastic integration story", https://medium.com/@dianatodea/send-aircall-data-into-elastic-a-webhook-integration-story-3753501a9d29
+12. "GenerativeAI and Observability in the Serverless World", "Part 3: How Machine Learning and DevOps are Transforming IT Operations
 Going Beyond RAG and Fine-Tuning", https://devm.io/devops/beyond-rag-fine-tuning-machine-learning-devops
-9. "GenerativeAI and Observability in the Serverless World", "Part 2: Introduction to Generative AI and Transformer Architecture
+13. "GenerativeAI and Observability in the Serverless World", "Part 2: Introduction to Generative AI and Transformer Architecture
 Transformer and Generative AI Concepts", https://devm.io/machine-learning/generative-ai-transformer-architecture
-10. "GenerativeAI and Observability in the Serverless World", "Part 1: How Machine Learning and DevOps are Transforming IT Operations": https://devm.io/devops/generativeai-observability-serverless
-11. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
-12. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
+14. "GenerativeAI and Observability in the Serverless World", "Part 1: How Machine Learning and DevOps are Transforming IT Operations": https://devm.io/devops/generativeai-observability-serverless
+15. "10 lessons on how to become an excellent SRE": https://medium.com/@dianatodea/10-lessons-on-how-to-become-an-excellent-sre-5b002af50ba3
+16. Elastic Advent Calendar blog article about Serverless Observability and beats alerts (English, Spanish and Romanian):
 https://discuss.elastic.co/t/dec-3rd-2023-en-serverless-observability-how-beats-alerts-help-you-save-christmas/347284
-13. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
+17. Elastic Advent Calendar blog article about Good and Bad SLOs (English, Spanish and Romanian): https://discuss.elastic.co/t/347304
 
 # Public speaking, DevRel, community articles
 
-14. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
-15. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
-16. "Breaking into public speaking: my honest opinions after a two-year journey": https://medium.com/@dianatodea/breaking-into-devrel-my-honest-opinions-after-a-2-years-journey-495a516c3ffe
+18. "Tech conferences, anyone? 2024 year wrap": https://medium.com/@dianatodea/tech-conferences-anyone-2024-year-wrap-395d0c36c40c
+19. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
+20. "Breaking into public speaking: my honest opinions after a two-year journey": https://medium.com/@dianatodea/breaking-into-devrel-my-honest-opinions-after-a-2-years-journey-495a516c3ffe
 
 # Books reviews
 
@@ -111,8 +114,13 @@ https://www.linkedin.com/pulse/book-review-fundamentals-data-observability-andy-
 16. O'Reilly book review on ChatGPT:
 https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-todea-ns45f%3FtrackingId=vfdCfM3ZS4%252B2Bs%252FM7x5vYQ%253D%253D/?trackingId=vfdCfM3ZS4%2B2Bs%2FM7x5vYQ%3D%3D
 
-# AWS interview video and blog post
+# Interviews and podcasts
 
-1. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
-
-2. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
+1. Humans of OTel: Live from KubeCon NA 2025 with Jacob Aronoff and Diana Todea, https://www.youtube.com/watch?v=NzbDui8hDdo
+2. eAfterWork EP 10: "Observabilité illimitée + OpenTelemetry sur une stack open source avec DIANA TODEA", https://www.youtube.com/watch?v=E9t3aLkR6js
+3. Diana Todea on Why Developer Experience Is Replacing DevRel - Packet Pushers at KubeCon NA 2025, https://www.youtube.com/watch?v=dvtYkrrEWsY
+4. Merge-Forward at KubeCon NA 2025: https://www.thecube.net/events/linux-foundation/kubecon-cloudnativecon-na-2025/content/Videos/eda66ede-e815-41b6-85b6-764fb528a3e1
+5. Representation takes center stage as Merge Forward amplifies underrepresented voices in open-source communities, https://siliconangle.com/2025/11/13/accessibility-meets-open-source-collaboration-kubeconna/
+6. How I Went from Stage Fear to Speaking at Tech Conferences, https://www.youtube.com/watch?v=zvlu8rL8UO8
+7. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
+8. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
