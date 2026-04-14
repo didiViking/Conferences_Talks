@@ -8,11 +8,11 @@ https://sessionize.com/diana-todea/
 
 1. Cloud Native Panama, online, April 2026: https://community.cncf.io/events/details/cncf-cloud-native-panama-presents-meetup-online-greener-observability-a-journey-toward-sustainable-monitoring-through-open-source-innovation-w-diana-todea/, https://www.linkedin.com/events/7447523520995241984/
 
-2. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://colocatedeventseu2026.sched.com/event/2278a64e9e977f1109e7ef8c499a246a
+2. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/Fn2gSOsp9TA?si=axpYW9FqNtXYTb4i
    
-3. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://colocatedeventseu2026.sched.com/event/2DY4S/panel-platform-resilience-built-on-belonging-diana-todea-victoriametrics-stephane-este-gracias-itq-or-navon-friends-of-dorothy-milad-vafaeifard-dhhwg
+3. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/dVCN3bwumTg?si=3tXQT3LENgB4UTlG
    
-4. KubeCon EU Amsterdam, March 2026: https://kccnceu2026.sched.com/event/2EG0G/cloud-native-theater-cloud-native-university-a-simple-and-practical-guide-to-observability-in-kubernetes-diana-todea-victoriametrics
+4. KubeCon EU Amsterdam, March 2026, Cloud Native University: https://www.youtube.com/watch?v=nNDNw84Uuqg
    
 5. KubeCon EU Amsterdam, leading the Neurodiversity Commmunity Hub session, March 2026: https://kccnceu2026.sched.com/event/2IWqL/neurodiversity-at-work-practical-tools-open-source-paths-and-inclusive-community-building
 
