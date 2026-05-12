@@ -54,62 +54,65 @@ https://sessionize.com/diana-todea/
 
 # DevOps and Platform Engineering events
 
-24. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
+24. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
 
-25. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
+25. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
+
+26. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
     
-26. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+27. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
-27. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
+28. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
-28. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
+29. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
    
-29. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
+30. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
 
-30. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
+31. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
-31. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
+32. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
 
-32. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
+33. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
-33. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
+34. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
-34. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
+35. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
 
-35. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
+36. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
-36. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
+37. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
 
-37. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
+38. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
 
-38. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
+39. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-39. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
+40. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
    
-40. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
+41. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
-41. DevOpsJS Conference, February 2024: 
+42. DevOpsJS Conference, February 2024: 
 https://portal.gitnation.org/contents/serverless-observability-where-slos-meet-transforms
 
-42. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
+43. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
-43. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
+44. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 
 # Cloud native and Open Source articles
 
 1. Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam: https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/
-2. My first KubeCon + CloudNativeCon: A journey through community, inclusivity, and neurodiversity, "https://www.cncf.io/blog/2025/12/04/my-first-kubecon-cloudnativecon-a-journey-through-community-inclusivity-and-neurodiversity/
-3. "How I Made the Most of KubeCon + CloudNativeCon Atlanta 2025 and How You Can Maximize Your Network Too" https://medium.com/@dianatodea/how-i-made-the-most-of-kubecon-cloudnativecon-atlanta-2025-and-how-you-can- maximize-your-network-e9a79dd98169
-4. "Observability Is a Mesh, Not a Braid", https://medium.com/@dianatodea/observability-is-a-mesh-not-a-braid-c3ac3ca9a305
-5. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
-6. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
-7. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
-8. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
-9. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-10. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
-11. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+2. Observability has a data hoarding problem: https://medium.com/@dianatodea/observability-has-a-data-hoarding-problem-70df85c88b9f
+3. My first KubeCon + CloudNativeCon: A journey through community, inclusivity, and neurodiversity, "https://www.cncf.io/blog/2025/12/04/my-first-kubecon-cloudnativecon-a-journey-through-community-inclusivity-and-neurodiversity/
+4. "How I Made the Most of KubeCon + CloudNativeCon Atlanta 2025 and How You Can Maximize Your Network Too" https://medium.com/@dianatodea/how-i-made-the-most-of-kubecon-cloudnativecon-atlanta-2025-and-how-you-can- maximize-your-network-e9a79dd98169
+5. "Observability Is a Mesh, Not a Braid", https://medium.com/@dianatodea/observability-is-a-mesh-not-a-braid-c3ac3ca9a305
+6. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
+7. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
+8. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
+9. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
+10. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+11. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
+12. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
 # SRE, GenerativeAI
 
