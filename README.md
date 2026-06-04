@@ -42,7 +42,7 @@ https://sessionize.com/diana-todea/
    
 18. PromCON EU, October 2025: https://www.youtube.com/live/SzSUa5y7Ji0?si=maeQvwqIqxNilch_
    
-19. Cloud Native Days Austria, October 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
+19. Cloud Native Days Austria, September 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
    
 20. Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
 
