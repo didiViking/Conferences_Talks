@@ -34,7 +34,7 @@ https://sessionize.com/diana-todea/
 
 14. Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
 
-15. OSMC, Nuremberg, Germany, November 2025: https://osmc.de/talks/from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/
+15. OSMC, Nuremberg, Germany, November 2025: https://www.youtube.com/watch?v=1ynHP_RZFDM
    
 16. Cloud Native Rejekts, Atlanta, November 2025: Merge-Forward lightning talk: https://www.youtube.com/watch?v=JE5B7WmPIgs, OpenTelemetry lightning talk: https://youtu.be/b1Pdv4RSR78?si=hRUgd9Li9D16ELia
    
