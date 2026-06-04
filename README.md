@@ -28,7 +28,7 @@ https://sessionize.com/diana-todea/
    
 11. FOSDEM, Brussels, January 2026: https://fosdem.org/2026/schedule/speaker/diana_todea/ 
 
-12. Cloud Native Valencia, Valencia, November 2025: https://community.cncf.io/events/details/cncf-cloud-native-valencia-presents-cloud-native-valencia-3-year-end-lightning-talks-ctencf-party/
+12. Cloud Native Valencia, Valencia, November 2025: https://youtu.be/KbvaQfPoUCQ?si=6NuVHd4tqeyR_nY6&t=2373
    
 13. Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922, https://www.youtube.com/watch?v=hoyGwC7i-SI
 
