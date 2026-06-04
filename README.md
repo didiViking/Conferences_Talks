@@ -24,7 +24,7 @@ https://sessionize.com/diana-todea/
 
 9. Container Days London, February 2026: https://www.containerdays.io/containerdays-london-2026/agenda/
 
-10. Cloud Native Days France, Paris, February 2026: https://www.cloudnativedays.fr/programme
+10. Cloud Native Days France, Paris, February 2026: https://youtu.be/la8coUmqriQ?si=9JMBKON7rz6fYNpC
    
 11. FOSDEM, Brussels, January 2026: https://fosdem.org/2026/schedule/speaker/diana_todea/ 
 
