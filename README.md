@@ -8,9 +8,9 @@ https://sessionize.com/diana-todea/
 
 1. Open Source NA Summit, Minneapolis, USA, May 2026: https://osselcna2026.sched.com/event/2JQyi/day-2-neurodiversity-moving-beyond-fundamentals-with-merge-forward-ryan-etten-rhca-red-hat-diana-todea-victoriametrics
    
-2. Observability NA Summit, Minneapolis, USA, May 2026: https://observabilitysummitna26.sched.com/event/2HJVN/panel-telemetry-that-matters-diana-todea-victoriametrics-antonio-jimenez-martinez-cisco-thousandeyes-laura-luttmer-dynatrace
+2. Observability NA Summit, Minneapolis, USA, May 2026: https://www.youtube.com/watch?v=QyOX0GHd0Ug
 
-3. Cloud Native Panama, online, April 2026: https://community.cncf.io/events/details/cncf-cloud-native-panama-presents-meetup-online-greener-observability-a-journey-toward-sustainable-monitoring-through-open-source-innovation-w-diana-todea/, https://www.linkedin.com/events/7447523520995241984/
+3. Cloud Native Panama, online, April 2026: https://community.cncf.io/events/details/cncf-cloud-native-panama-presents-meetup-online-greener-observability-a-journey-toward-sustainable-monitoring-through-open-source-innovation-w-diana-todea/, https://www.linkedin.com/events/7447523520995241984/, https://www.youtube.com/watch?v=KxblaK8fjbQ
 
 4. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/Fn2gSOsp9TA?si=axpYW9FqNtXYTb4i
    
