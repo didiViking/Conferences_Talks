@@ -1,4 +1,4 @@
-![DevStats Card](https://devstats.me/?username=didiViking)
+![DevStats Card](https://devstats.app/?username=didiViking&theme=light)](https://github.com/didiViking/devstats)
 
 # Conferences & Talks
 
