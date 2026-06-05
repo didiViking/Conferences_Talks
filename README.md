@@ -58,7 +58,7 @@ https://sessionize.com/diana-todea/
 
 # DevOps and Platform Engineering events
 
-26. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics", https://jnation.pt/speakers/
+26. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
 
 27. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
 
