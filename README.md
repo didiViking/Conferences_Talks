@@ -4,7 +4,7 @@
 
 https://sessionize.com/diana-todea/
 
-# Cloud Native and Open Source events
+# Speaker at Cloud Native and Open Source events
 
 1. Open Source NA Summit, Minneapolis, USA, May 2026: https://osselcna2026.sched.com/event/2JQyi/day-2-neurodiversity-moving-beyond-fundamentals-with-merge-forward-ryan-etten-rhca-red-hat-diana-todea-victoriametrics
    
@@ -56,7 +56,7 @@ https://sessionize.com/diana-todea/
    
 25. Open Source Monitoring Conference in Nuremberg, Germany, 2024: "Open source observability for private clouds: mission impossible or not?", https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
 
-# DevOps and Platform Engineering events
+# Speaker at DevOps and Platform Engineering events
 
 26. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
 
@@ -105,7 +105,7 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 47. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 
-# Cloud native and Open Source articles
+# Author of cloud native and open source articles
 
 1. One year inside the engine room of Cloud Native Days Romania: https://medium.com/@dianatodea/one-year-inside-the-engine-room-of-cloud-native-days-romania-291e631a629b
 2. The Lazy Developer's Guide to Observing Your Own Code: https://community.dynatrace.com/t5/Community-Voices/The-Lazy-Developer-s-Guide-to-Observing-Your-Own-Code/ba-p/299230, https://open.substack.com/pub/geekingoutpodcast/p/the-lazy-developers-guide-to-observing  
@@ -123,7 +123,7 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 14. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
 15. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
-# SRE, GenerativeAI
+# Author of SRE, GenerativeAI related articles
 
 11. "Can you make your calls and SMS observable? An Aircall Elastic integration story", https://medium.com/@dianatodea/send-aircall-data-into-elastic-a-webhook-integration-story-3753501a9d29
 12. "GenerativeAI and Observability in the Serverless World", "Part 3: How Machine Learning and DevOps are Transforming IT Operations
@@ -142,14 +142,21 @@ https://discuss.elastic.co/t/dec-3rd-2023-en-serverless-observability-how-beats-
 19. "SRE or DevRel?": https://medium.com/@dianatodea/sre-or-devrel-a019bb7cff9b
 20. "Breaking into public speaking: my honest opinions after a two-year journey": https://medium.com/@dianatodea/breaking-into-devrel-my-honest-opinions-after-a-2-years-journey-495a516c3ffe
 
-# Books reviews
+# Author of books reviews
 
 15. O'Reilly book review on Observability: 
 https://www.linkedin.com/pulse/book-review-fundamentals-data-observability-andy-petrella-diana-todea%3FtrackingId=Ka%252Fz%252Bsa3TMqe1IORKJxiIQ%253D%253D/?trackingId=Ka%2Fz%2Bsa3TMqe1IORKJxiIQ%3D%3D
 16. O'Reilly book review on ChatGPT:
 https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-todea-ns45f%3FtrackingId=vfdCfM3ZS4%252B2Bs%252FM7x5vYQ%253D%253D/?trackingId=vfdCfM3ZS4%2B2Bs%2FM7x5vYQ%3D%3D
 
-# Interviews and podcasts
+# Host of podcasts
+
+1. Telemetry Talks, VictoriaMetrics: https://youtube.com/playlist?list=PLXT8DSiuv5ymWeL5_hJgPVIyTVoO_98oU&si=kEcLWx1yGn2moU3F
+   In this podcast, I interview different guests and walk through several use cases of OpenTelemetry with VictoriaMetrics solutions and beyond.
+2. DevEx Talks, Victoriametrics: https://youtube.com/playlist?list=PLXT8DSiuv5ymSZB8gy7tUXqk03LXpKWXw&si=ejzpbCrQu-nCYxFL
+   A vendor neutral podcast, I interview a wide range of guests from the cloud native and open source community and address more sensitive topics such as diversity, inclusion, neurodiversity, Merge-Forward initiative, accessibility in tech and beyond, creating communities and digital content from the ground up, or providing examples of professionals who succeeeded in cloud native and open source with their projects.
+ 
+# Guest speaker at interviews and podcasts
 
 1. Humans of OTel: Live from KubeCon NA 2025 with Jacob Aronoff and Diana Todea, https://www.youtube.com/watch?v=NzbDui8hDdo
 2. eAfterWork EP 10: "Observabilité illimitée + OpenTelemetry sur une stack open source avec DIANA TODEA", https://www.youtube.com/watch?v=E9t3aLkR6js
