@@ -152,9 +152,12 @@ https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-to
 # Host of podcasts
 
 1. Telemetry Talks, VictoriaMetrics: https://youtube.com/playlist?list=PLXT8DSiuv5ymWeL5_hJgPVIyTVoO_98oU&si=kEcLWx1yGn2moU3F
+   
    In this podcast, I interview different guests and walk through several use cases of OpenTelemetry with VictoriaMetrics solutions and beyond.
+   
 2. DevEx Talks, Victoriametrics: https://youtube.com/playlist?list=PLXT8DSiuv5ymSZB8gy7tUXqk03LXpKWXw&si=ejzpbCrQu-nCYxFL
-   A vendor neutral podcast, I interview a wide range of guests from the cloud native and open source community and address more sensitive topics such as diversity, inclusion, neurodiversity, Merge-Forward initiative, accessibility in tech and beyond, creating communities and digital content from the ground up, or providing examples of professionals who succeeeded in cloud native and open source with their projects.
+   
+   In this podcast, I interview a wide range of guests from the cloud native and open source community and address more sensitive topics such as diversity, inclusion, neurodiversity, Merge-Forward initiative, accessibility in tech and beyond, creating communities and digital content from the ground up, or providing examples of professionals who succeeeded in cloud native and open source with their projects. A vendor neutral podcast.
  
 # Guest speaker at interviews and podcasts
 
