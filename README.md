@@ -113,22 +113,23 @@ https://youtube.com/watch?v=XO1FqCCgvfE
 
 # Author of cloud native and open source articles
 
-1. CNCF blog article, "Telemetry that matters: Designing sustainable, high-impact observability pipelines": https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines/
-2. One year inside the engine room of Cloud Native Days Romania: https://medium.com/@dianatodea/one-year-inside-the-engine-room-of-cloud-native-days-romania-291e631a629b
-3. The Lazy Developer's Guide to Observing Your Own Code: https://community.dynatrace.com/t5/Community-Voices/The-Lazy-Developer-s-Guide-to-Observing-Your-Own-Code/ba-p/299230, https://open.substack.com/pub/geekingoutpodcast/p/the-lazy-developers-guide-to-observing  
-4. Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam: https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/
-5. Observability has a data hoarding problem: https://medium.com/@dianatodea/observability-has-a-data-hoarding-problem-70df85c88b9f
-6. The Green side of Observability: https://devops.com/the-green-side-of-observability-why-less-data-can-mean-more-insight/
-7. My first KubeCon + CloudNativeCon: A journey through community, inclusivity, and neurodiversity, "https://www.cncf.io/blog/2025/12/04/my-first-kubecon-cloudnativecon-a-journey-through-community-inclusivity-and-neurodiversity/
-8. "How I Made the Most of KubeCon + CloudNativeCon Atlanta 2025 and How You Can Maximize Your Network Too" https://medium.com/@dianatodea/how-i-made-the-most-of-kubecon-cloudnativecon-atlanta-2025-and-how-you-can- maximize-your-network-e9a79dd98169
-9. "Observability Is a Mesh, Not a Braid", https://medium.com/@dianatodea/observability-is-a-mesh-not-a-braid-c3ac3ca9a305
-10. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
-11. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
-12. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
-13. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
-14. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
-15. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
-16. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
+1. CNCF blog article,"From awareness to engineered accessibility in open source", https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source/
+2. CNCF blog article, "Telemetry that matters: Designing sustainable, high-impact observability pipelines": https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines/
+3. One year inside the engine room of Cloud Native Days Romania: https://medium.com/@dianatodea/one-year-inside-the-engine-room-of-cloud-native-days-romania-291e631a629b
+4. The Lazy Developer's Guide to Observing Your Own Code: https://community.dynatrace.com/t5/Community-Voices/The-Lazy-Developer-s-Guide-to-Observing-Your-Own-Code/ba-p/299230, https://open.substack.com/pub/geekingoutpodcast/p/the-lazy-developers-guide-to-observing  
+5. Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam: https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/
+6. Observability has a data hoarding problem: https://medium.com/@dianatodea/observability-has-a-data-hoarding-problem-70df85c88b9f
+7. The Green side of Observability: https://devops.com/the-green-side-of-observability-why-less-data-can-mean-more-insight/
+8. My first KubeCon + CloudNativeCon: A journey through community, inclusivity, and neurodiversity, "https://www.cncf.io/blog/2025/12/04/my-first-kubecon-cloudnativecon-a-journey-through-community-inclusivity-and-neurodiversity/
+9. "How I Made the Most of KubeCon + CloudNativeCon Atlanta 2025 and How You Can Maximize Your Network Too" https://medium.com/@dianatodea/how-i-made-the-most-of-kubecon-cloudnativecon-atlanta-2025-and-how-you-can- maximize-your-network-e9a79dd98169
+10. "Observability Is a Mesh, Not a Braid", https://medium.com/@dianatodea/observability-is-a-mesh-not-a-braid-c3ac3ca9a305
+11. "Merge-Forward: Elevating Equity in Cloud Native", https://medium.com/@dianatodea/merge-forward-elevating-equity-in-cloud-native-8df9a3538c7e
+12. "How OTel community day enriched my OSS career", https://www.cncf.io/blog/2025/08/13/how-otel-community-day-enriched-my-open-source-career-a-tale-of-community-and-connection/
+13. "OTel me more on Traces: introducing VictoriaMetrics' Trace Analyzer", https://medium.com/@dianatodea/otel-me-more-on-traces-introducing-victoriametrics-trace-analyzer-3db76d8a2bb2
+14. "Cloud Native Days Romania: tales from the field", https://medium.com/@dianatodea/cloud-native-days-romania-2025-tales-from-the-field-2d41c75f69df
+15. "I played with OTEL and I liked it", https://medium.com/@dianatodea/i-played-with-otel-and-i-liked-it-a69af868568b
+16. "Document writing: a great way to contribute to Open Source projects", https://medium.com/@dianatodea/document-writing-a-great-way-to-contribute-to-open-source-projects-5fee57699efd
+17. "Why feedback matters for open source projects": https://medium.com/@dianatodea/why-feedback-matters-for-open-source-a3a26d5a3069
    
 # Author of SRE, GenerativeAI related articles
 
