@@ -176,11 +176,13 @@ https://www.linkedin.com/pulse/book-review-developing-apps-gpt4-chatgpt-diana-to
  
 # Guest speaker at interviews and podcasts
 
-1. Humans of OTel: Live from KubeCon NA 2025 with Jacob Aronoff and Diana Todea, https://www.youtube.com/watch?v=NzbDui8hDdo
-2. eAfterWork EP 10: "Observabilité illimitée + OpenTelemetry sur une stack open source avec DIANA TODEA", https://www.youtube.com/watch?v=E9t3aLkR6js
-3. Diana Todea on Why Developer Experience Is Replacing DevRel - Packet Pushers at KubeCon NA 2025, https://www.youtube.com/watch?v=dvtYkrrEWsY
-4. Merge-Forward at KubeCon NA 2025: https://www.thecube.net/events/linux-foundation/kubecon-cloudnativecon-na-2025/content/Videos/eda66ede-e815-41b6-85b6-764fb528a3e1
-5. Representation takes center stage as Merge Forward amplifies underrepresented voices in open-source communities, https://siliconangle.com/2025/11/13/accessibility-meets-open-source-collaboration-kubeconna/
-6. How I Went from Stage Fear to Speaking at Tech Conferences, https://www.youtube.com/watch?v=zvlu8rL8UO8
-7. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
-8. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
+1. Green Software Foundation podcast, The Green Side of Observability: https://www.youtube.com/watch?v=dSYL1SzpslI
+2. OpenChannels FM: https://openchannels.fm/challenges-and-triumphs-of-developer-advocacy-plus-opentelemetry-and-neurodiversity-in-modern-tech/
+3. Humans of OTel: Live from KubeCon NA 2025 with Jacob Aronoff and Diana Todea, https://www.youtube.com/watch?v=NzbDui8hDdo
+4. eAfterWork EP 10: "Observabilité illimitée + OpenTelemetry sur une stack open source avec DIANA TODEA", https://www.youtube.com/watch?v=E9t3aLkR6js
+5. Diana Todea on Why Developer Experience Is Replacing DevRel - Packet Pushers at KubeCon NA 2025, https://www.youtube.com/watch?v=dvtYkrrEWsY
+6. Merge-Forward at KubeCon NA 2025: https://www.thecube.net/events/linux-foundation/kubecon-cloudnativecon-na-2025/content/Videos/eda66ede-e815-41b6-85b6-764fb528a3e1
+7. Representation takes center stage as Merge Forward amplifies underrepresented voices in open-source communities, https://siliconangle.com/2025/11/13/accessibility-meets-open-source-collaboration-kubeconna/
+8. How I Went from Stage Fear to Speaking at Tech Conferences, https://www.youtube.com/watch?v=zvlu8rL8UO8
+9. AWS blog post on my certificate path: https://aws.amazon.com/blogs/training-and-certification/diana-todea-lifelong-learner-with-a-philosophy-of-flexibility
+10. YouTube video presenting an interview I gave for AWS: https://m.youtube.com/watch?v=SoQahKnKG0w
