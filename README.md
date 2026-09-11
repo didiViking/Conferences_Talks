@@ -62,57 +62,61 @@ https://sessionize.com/diana-todea/
 
 # Speaker at DevOps, Platform Engineering and AI related events
 
-28. Agentic AI Foundation: A virtual MCP Community Event for AI Builders, "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7, https://home.mlops.community/home/events/a-virtual-mcp-community-event-for-ai-builders-14x29g2kqp
+28. Agentic AI Foundation: "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7
 
-29. Devoxx Poland, June 2026: "How to Use an AI Assistant with Your Monitoring System", https://youtu.be/TZPZ6jfty68?si=0_WFkAM-tnAFA_KF
+29. Conf42 Observability: "How to build your own green observability pipeline", https://www.youtube.com/watch?v=YInhHfUZsLc
 
-30. Berlin Buzzwords, June 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics", https://www.youtube.com/watch?v=K1Fg6CpRKzc
+30. Agentic AI Foundation: A virtual MCP Community Event for AI Builders, "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7, https://home.mlops.community/home/events/a-virtual-mcp-community-event-for-ai-builders-14x29g2kqp
 
-31. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
+31. Devoxx Poland, June 2026: "How to Use an AI Assistant with Your Monitoring System", https://youtu.be/TZPZ6jfty68?si=0_WFkAM-tnAFA_KF
 
-32. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
+32. Berlin Buzzwords, June 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics", https://www.youtube.com/watch?v=K1Fg6CpRKzc
 
-33. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
+33. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
 
-34. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
+34. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
+
+35. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
+
+36. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
     
-35. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+37. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
     
-36. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
+38. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
-37. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
+39. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
    
-38. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
+40. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
 
-39. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
+41. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
-40. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
+42. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
 
-41. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
+43. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
-42. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
+44. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
-43. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
+45. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
 
-44. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
+46. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
-45. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
+47. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
 
-46. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
+48. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
 
-47. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
+49. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-48. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
+50. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
    
-49. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
+51. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
-50. DevOpsJS Conference, February 2024: 
+52. DevOpsJS Conference, February 2024: 
 https://portal.gitnation.org/contents/serverless-observability-where-slos-meet-transforms
 
-51. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
+53. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
-52. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
+54. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 
 # Author of cloud native and open source articles
