@@ -6,135 +6,141 @@ https://sessionize.com/diana-todea/
 
 # Speaker at Cloud Native and Open Source events
 
-1. Cloud Native Bucharest, Sustainability Month, Keynote: Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, https://ocgroups.dev/cncf/group/q8h223s/event/4wqs2ud
+1. Cloud Native Ciudad de Mexico: Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, https://ocgroups.dev/cncf/group/e5vgp72/event/deesvtm
    
-2. FHCN Fundación Hispana de Cloud Native is live now: Carbono como señal de primer nivel: diseñando un estándar para OpenTelemetry |. Ep. 216, https://www.youtube.com/watch?v=IO3aAFpOqXk
+2. Cloud Native Days Norway: Observing Kubernetes Policies with Kyverno and VictoriaMetrics; https://2026.cloudnativedays.no/speaker/diana-todea
+    
+3. Cloud Native Bucharest, Sustainability Month, Keynote: Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, https://ocgroups.dev/cncf/group/q8h223s/event/4wqs2ud
+   
+4. FHCN Fundación Hispana de Cloud Native is live now: Carbono como señal de primer nivel: diseñando un estándar para OpenTelemetry |. Ep. 216, https://www.youtube.com/watch?v=IO3aAFpOqXk
 
-3. Cloud Native Quito: Carbono como señal de primer nivel: diseñando un estándar para OpenTelemetry, https://ocgroups.dev/cncf/group/h98kypy/event/xh9qjcq
+5. Cloud Native Quito: Carbono como señal de primer nivel: diseñando un estándar para OpenTelemetry, https://ocgroups.dev/cncf/group/h98kypy/event/xh9qjcq
    
-4. Cloud Native Rabat, October 2026: Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, https://ocgroups.dev/cncf/group/j4uafrf/event/tfwy223
+6. Cloud Native Rabat, October 2026: Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, https://ocgroups.dev/cncf/group/j4uafrf/event/tfwy223
    
-5. OTel in Practice: How can I contribute to OTel if I'm not a developer?, https://www.youtube.com/watch?v=3zwtNs9TbE0
+7. OTel in Practice: How can I contribute to OTel if I'm not a developer?, https://www.youtube.com/watch?v=3zwtNs9TbE0
    
-6. Observability EU Summit, Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, October 2026: https://events.linuxfoundation.org/observability-summit-europe/program/schedule/?id=1269996
+8. Observability EU Summit, Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry, October 2026: https://events.linuxfoundation.org/observability-summit-europe/program/schedule/?id=1269996
    
-7. GreenIO London, October 2026: You already have what you need: Open Source GreenOps in Practice, https://greenio.tech/conference/22/london-2026-september
+9. GreenIO London, October 2026: You already have what you need: Open Source GreenOps in Practice, https://greenio.tech/conference/22/london-2026-september
    
-8. Cloud Native Days Austria, September 2026: How to defeat OTel' silent killer: the performance overhead, https://www.youtube.com/watch?v=OolHw9MJ37Y&list=PLcMwH4f9MXB4&index=5
+10. Cloud Native Days Austria, September 2026: How to defeat OTel' silent killer: the performance overhead, https://www.youtube.com/watch?v=OolHw9MJ37Y&list=PLcMwH4f9MXB4&index=5
 
-9. KCD Istanbul, Turkey, July 2026: Observing Kubernetes Policies with Kyverno and VictoriaMetrics, https://kcd.ist/sessions/
+11. KCD Istanbul, Turkey, July 2026: Observing Kubernetes Policies with Kyverno and VictoriaMetrics, https://kcd.ist/sessions/
 
-10. KCD New York, USA, June 2026: Observing Kubernetes Policies with Kyverno and VictoriaMetrics, and Telemetry that Matters panel: https://kcdnewyork.com/schedule/
+11. KCD New York, USA, June 2026: Observing Kubernetes Policies with Kyverno and VictoriaMetrics, and Telemetry that Matters panel: https://kcdnewyork.com/schedule/
 
-11. Open Source NA Summit, Minneapolis, USA, May 2026: https://osselcna2026.sched.com/event/2JQyi/day-2-neurodiversity-moving-beyond-fundamentals-with-merge-forward-ryan-etten-rhca-red-hat-diana-todea-victoriametrics, https://www.youtube.com/watch?v=KBfQwX2N8-U
+12. Open Source NA Summit, Minneapolis, USA, May 2026: https://osselcna2026.sched.com/event/2JQyi/day-2-neurodiversity-moving-beyond-fundamentals-with-merge-forward-ryan-etten-rhca-red-hat-diana-todea-victoriametrics, https://www.youtube.com/watch?v=KBfQwX2N8-U
    
-12. Observability NA Summit, Minneapolis, USA, May 2026: https://www.youtube.com/watch?v=QyOX0GHd0Ug
+13. Observability NA Summit, Minneapolis, USA, May 2026: https://www.youtube.com/watch?v=QyOX0GHd0Ug
 
-13. Cloud Native Panama, online, April 2026: https://community.cncf.io/events/details/cncf-cloud-native-panama-presents-meetup-online-greener-observability-a-journey-toward-sustainable-monitoring-through-open-source-innovation-w-diana-todea/, https://www.linkedin.com/events/7447523520995241984/, https://www.youtube.com/watch?v=KxblaK8fjbQ
+14. Cloud Native Panama, online, April 2026: https://community.cncf.io/events/details/cncf-cloud-native-panama-presents-meetup-online-greener-observability-a-journey-toward-sustainable-monitoring-through-open-source-innovation-w-diana-todea/, https://www.linkedin.com/events/7447523520995241984/, https://www.youtube.com/watch?v=KxblaK8fjbQ
 
-14. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/Fn2gSOsp9TA?si=axpYW9FqNtXYTb4i
+15. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/Fn2gSOsp9TA?si=axpYW9FqNtXYTb4i
    
-15. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/dVCN3bwumTg?si=3tXQT3LENgB4UTlG
+16. KubeCon EU Amsterdam, Platform Engineering Day, March 2026: https://youtu.be/dVCN3bwumTg?si=3tXQT3LENgB4UTlG
    
-16. KubeCon EU Amsterdam, March 2026, Cloud Native University: https://www.youtube.com/watch?v=nNDNw84Uuqg
+17. KubeCon EU Amsterdam, March 2026, Cloud Native University: https://www.youtube.com/watch?v=nNDNw84Uuqg
    
-17. KubeCon EU Amsterdam, leading the Neurodiversity Commmunity Hub session, March 2026: https://kccnceu2026.sched.com/event/2IWqL/neurodiversity-at-work-practical-tools-open-source-paths-and-inclusive-community-building
+18. KubeCon EU Amsterdam, leading the Neurodiversity Commmunity Hub session, March 2026: https://kccnceu2026.sched.com/event/2IWqL/neurodiversity-at-work-practical-tools-open-source-paths-and-inclusive-community-building
 
-18. Scale23x, Cloud Native Days LA, March 2026: https://www.socallinuxexpo.org/scale/23x/presentations/green-observability-what-needs-shuffle-open-source, https://www.youtube.com/live/TRw0bsrtCjA?t=16296s
+19. Scale23x, Cloud Native Days LA, March 2026: https://www.socallinuxexpo.org/scale/23x/presentations/green-observability-what-needs-shuffle-open-source, https://www.youtube.com/live/TRw0bsrtCjA?t=16296s
 
-19. Container Days London, February 2026: https://www.containerdays.io/containerdays-london-2026/agenda/
+20. Container Days London, February 2026: https://www.containerdays.io/containerdays-london-2026/agenda/
 
-20. Cloud Native Days France, Paris, February 2026: https://youtu.be/la8coUmqriQ?si=9JMBKON7rz6fYNpC
+21. Cloud Native Days France, Paris, February 2026: https://youtu.be/la8coUmqriQ?si=9JMBKON7rz6fYNpC
    
-21. FOSDEM, Brussels, January 2026: https://fosdem.org/2026/schedule/speaker/diana_todea/ 
+22. FOSDEM, Brussels, January 2026: https://fosdem.org/2026/schedule/speaker/diana_todea/ 
 
-22. Cloud Native Valencia, Valencia, November 2025: https://youtu.be/KbvaQfPoUCQ?si=6NuVHd4tqeyR_nY6&t=2373
+23. Cloud Native Valencia, Valencia, November 2025: https://youtu.be/KbvaQfPoUCQ?si=6NuVHd4tqeyR_nY6&t=2373
    
-23. Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922, https://www.youtube.com/watch?v=hoyGwC7i-SI
+24. Cloud Native LATAM Summit Virtual, November 2025: https://cloud-native-latam-summit.sessionize.com/session/1046922, https://www.youtube.com/watch?v=hoyGwC7i-SI
 
-24. Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
+25. Cloud Native Sustainability Month, Barcelona Edition, November 2025: https://www.meetup.com/cloud-native-bcn/events/311460252/
 
-25. OSMC, Nuremberg, Germany, November 2025: https://www.youtube.com/watch?v=1ynHP_RZFDM
+26. OSMC, Nuremberg, Germany, November 2025: https://www.youtube.com/watch?v=1ynHP_RZFDM
    
-26. Cloud Native Rejekts, Atlanta, November 2025: Merge-Forward lightning talk: https://www.youtube.com/watch?v=JE5B7WmPIgs, OpenTelemetry lightning talk: https://youtu.be/b1Pdv4RSR78?si=hRUgd9Li9D16ELia
+27. Cloud Native Rejekts, Atlanta, November 2025: Merge-Forward lightning talk: https://www.youtube.com/watch?v=JE5B7WmPIgs, OpenTelemetry lightning talk: https://youtu.be/b1Pdv4RSR78?si=hRUgd9Li9D16ELia
    
-27. Cloud Native Bergen, October 2025: https://2025.cloudnativebergen.dev/speaker/diana-todea, https://youtu.be/eVDBqKcDXpU
+28. Cloud Native Bergen, October 2025: https://2025.cloudnativebergen.dev/speaker/diana-todea, https://youtu.be/eVDBqKcDXpU
    
-28. PromCON EU, October 2025: https://www.youtube.com/live/SzSUa5y7Ji0?si=maeQvwqIqxNilch_
+29. PromCON EU, October 2025: https://www.youtube.com/live/SzSUa5y7Ji0?si=maeQvwqIqxNilch_
    
-29. Cloud Native Days Austria, September 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
+30. Cloud Native Days Austria, September 2025: https://cloudnativedays.at/; https://www.youtube.com/watch?v=nPrxpEE5GpY
    
-30. Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
+31. Cloud Native Kuala Lumpur, September 2025: https://www.youtube.com/watch?v=PEl83PLUook
 
-31. Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
+32. Cloud Native Santo Domingo, Virtual, July 2025: https://community.cncf.io/events/details/cncf-cloud-native-santo-domingo-presents-from-zero-to-developer-my-one-year-serendipity-journey-with-opentelemetry/, https://youtu.be/NEt5tPLwryw?si=VEC_eT_u61Hv5bZj
 
-32. OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
+33. OTel Community Day 2025, Denver, US, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.youtube.com/watch?v=wWON2NT41lE
 
-33. Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
+34. Cloud Native Days Romania, May 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/K61o4Z1gTxw?si=1RKPbFFAHaOyHKTC 
    
-34. KCD Accra, Ghana, virtual, December 2024: " Open source observability for private clouds: mission impossible or not?", https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
+35. KCD Accra, Ghana, virtual, December 2024: " Open source observability for private clouds: mission impossible or not?", https://community.cncf.io/events/details/cncf-kcd-ghana-presents-kcd-accra-2024/
    
-35. Open Source Monitoring Conference in Nuremberg, Germany, 2024: "Open source observability for private clouds: mission impossible or not?", https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
+36. Open Source Monitoring Conference in Nuremberg, Germany, 2024: "Open source observability for private clouds: mission impossible or not?", https://osmc.de/talks/open-source-observability-for-private-cloud-mission-impossible-or-not/, https://www.youtube.com/watch?v=Yi1_aCHoxu0
 
 # Speaker at DevOps, Platform Engineering and AI related events
 
-36. DevOps Days Istanbul: Observability's Sixth Sense: Detecting Anomalies in Metrics, https://devopsdays.istanbul/
+37. JOTB 2026: How to defeat OTel's silent killer, the performance overhead; https://jonthebeach.com/agenda/?day=friday&talk=how-to-defeat-otels-silent-killer
     
-37. Agentic AI Foundation: "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7
-
-38. Conf42 Observability: "How to build your own green observability pipeline", https://www.youtube.com/watch?v=YInhHfUZsLc
-
-39. Agentic AI Foundation: A virtual MCP Community Event for AI Builders, "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7, https://home.mlops.community/home/events/a-virtual-mcp-community-event-for-ai-builders-14x29g2kqp
-
-40. Devoxx Poland, June 2026: "How to Use an AI Assistant with Your Monitoring System", https://youtu.be/TZPZ6jfty68?si=0_WFkAM-tnAFA_KF
-
-41. Berlin Buzzwords, June 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics", https://www.youtube.com/watch?v=K1Fg6CpRKzc
-
-42. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
-
-43. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
-
-44. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
-
-45. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
+38. DevOps Days Istanbul: Observability's Sixth Sense: Detecting Anomalies in Metrics, https://devopsdays.istanbul/
     
-46. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+39. Agentic AI Foundation: "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7
+
+40. Conf42 Observability: "How to build your own green observability pipeline", https://www.youtube.com/watch?v=YInhHfUZsLc
+
+41. Agentic AI Foundation: A virtual MCP Community Event for AI Builders, "MCPs for Observability Stacks", https://youtu.be/aQHg6db9wRs?si=CnJ3iz8BBffBdDc7, https://home.mlops.community/home/events/a-virtual-mcp-community-event-for-ai-builders-14x29g2kqp
+
+42. Devoxx Poland, June 2026: "How to Use an AI Assistant with Your Monitoring System", https://youtu.be/TZPZ6jfty68?si=0_WFkAM-tnAFA_KF
+
+43. Berlin Buzzwords, June 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics", https://www.youtube.com/watch?v=K1Fg6CpRKzc
+
+44. JNation, Portugal, May 2026: "Observability’s Sixth Sense: Detecting Anomalies in Metrics": https://www.youtube.com/watch?v=yK_KQHdD7po
+
+45. Devoxx UK, May 2026: "Neurodiversity in Tech", https://www.devoxx.co.uk/talk/?id=8007
+
+46. Devoxx Greece, April 2026: "The lazy developers guide to observing your own code", https://m.devoxx.com/events/dvgr26/talks/3850/the-lazy-developers-guide-to-observing-your-own-code
+
+47. SREDay Amsterdam, November 2025: https://sreday.com/2025-amsterdam-q4/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics, https://youtu.be/pvY5QcYShyc?si=vTwhB7ek_CL79a8B
     
-47. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
+48. SREDay London, September 2025: https://sreday.com/2025-london-q3/Diana_Todea_VictoriaMetrics_Cutting_Through_Metrics_Cardinality_Noise_with_VictoriaMetrics
+    
+49. DevBCN, Barcelona, Spain, July 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://www.devbcn.com/talk/829657. This talk wasn't recorded but I gave an Youtube interview in Spanish shortly after on CodelyTV: https://www.youtube.com/live/LGmHZXm_QK4?si=94oYLAvBBRkyki9H
 
-48. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
+50. DevOpsDays Amsterdam 2025, Amsterdam, The Netherlands, June 2025: "From zero to developer: my one year serendipity journey with OpenTelemetry", https://youtu.be/52PkHEbXIaA?si=zh_OvQoYGCx9L_wH
    
-49. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
+51. Platmosphere Chapter 2025, Unleash the Invisible, May 2025, Milan, Italy: https://platmosphere.com/talks/generative-ai
 
-50. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
+52. GlobalAIBootcamp Valencia 2025, March 2025: https://global-ai-bootcamp-valencia-2025.sessionize.com/speakers
    
-51. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
+53. DevOps Barcelona Conference, Barcelona, Spain, 2024: https://devops.barcelona/talk/0d590d1b-a322-46c8-8ce0-6a120f6763e2/questions, https://www.youtube.com/watch?v=4zbbUtLX7j0
 
-52. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
+54. Platform Engineers Meetup, Virtual, August 2024: https://platformengineering.org/events/genai-for-observability-in-the-serverless-world, https://www.youtube.com/live/V7TcB9WgqB0
 
-53. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
+55. DevBCN, Barcelona, Spain, June 2024: https://www.devbcn.com/speaker/f22272a3-c974-4261-9846-8ae441a9d4e5
    
-54. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
+56. Monitorama, Portland, US, June 2024: https://www.youtube.com/watch?v=pazo-e8jcks, https://monitorama.com/2024/pdx.html#speakers
 
-55. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
+57. DevOpsDays Geneva, Geneva, Switzerland, May 2024: https://devopsdays.org/events/2024-geneva/speakers/virginia-diana-todea/
    
-56. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
+58. JOTB 2024 conference, Malaga, Spain, May 2024: https://youtu.be/lhgMlizvMF0?feature=shared
 
-57. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
+59. WomenTech Global Conference 2024, April 2024: https://www.womentech.net/speaker/all/all/98668, https://www.womentech.net/en-es/video/generativeai-applications-in-serverless-world
 
-58. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
+60. Platform Engineers Meetup, Virtual, April 2024: https://platformengineering.org/events/serverless-observability-where-slos-meet-transforms, https://www.youtube.com/live/KsvhCyIrrAk?si=s0KRcHzv3DEpGvo4 
 
-59. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
+61. Keynote speaker at DevOpsDays Raleigh 2024, Raleigh, North Carolina, US, April 2024: https://devopsdays.org/events/2024-raleigh/program/virginia-diana-todea-keynote, https://youtu.be/WcD5kA0fK3o?si=Jwj-yLVZY7cPVgxE
    
-60. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
+62. Serverless Architecture & DevOpsCon Conference London 2024, April 2024: https://serverless-architecture.io/serverless-development/generative-ai-serverless/
    
-61. DevOpsJS Conference, February 2024: 
+63. DevOpsJS Conference, February 2024: 
 https://portal.gitnation.org/contents/serverless-observability-where-slos-meet-transforms
 
-62. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
+64. WeAreDevelopersLive DevOps Day Conference February 2024: https://www.wearedevelopers.com/event/DevOps-Day-February-2024 and
 https://youtube.com/watch?v=XO1FqCCgvfE
 
-63. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
+65. SREday September 2023, London, UK: https://www.youtube.com/watch?v=QnhlCuXl_3k
 
 
 # Author of cloud native and open source articles
